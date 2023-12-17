@@ -1,0 +1,3 @@
+# This robots.txt file controls crawling of URLs under https://gochris.li.
+User-agent: *
+Disallow: /
