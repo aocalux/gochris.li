@@ -1,0 +1,63 @@
+.navbar {
+    background-color: #101010;
+    color: lightcyan;
+    font-size: larger;
+    width: 230px;
+    height: 100%;
+    position:fixed;
+    top: 0;
+    left: 0;
+}
+
+.logo {
+    margin-left: 23%;
+    color: whitesmoke;
+    text-decoration: none;
+    font-weight: 900;
+}
+
+.nav {
+    margin-left: 8%;
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: initial;
+}
+
+.isActive {
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: bolder;
+}
+
+.nav a {
+    text-decoration: none;
+    color: whitesmoke;
+    line-height: 150%;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}
+
+.legal {
+    bottom: 0;
+    left: 0;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    position: fixed;
+    text-decoration: none;
+    color: lightgray;
+    font-weight: initial;
+    font-size: medium;
+
+}
+
+.legal a {
+    color: lightgray;
+    text-decoration: none;
+    line-height: 130%;
+}
+.legal a:hover {
+    color: lightgray;
+    text-decoration: underline;
+}

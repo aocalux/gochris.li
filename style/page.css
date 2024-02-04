@@ -1,0 +1,25 @@
+body {
+    background-color: #141414;
+    color: lightcyan;
+    font-size: larger;
+}
+
+.page {
+    margin-top: 15px;
+    margin-left: 245px;
+}
+
+.page a {
+    color: yellow;
+    text-decoration: none;
+}
+
+.page a:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+.title {
+    text-align: center;
+    font-size: 300%;
+}
